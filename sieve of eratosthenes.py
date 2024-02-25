@@ -11,7 +11,10 @@ for i in range(4,int(x)):
         primeList.append(i)
     wasAdded = False
 
+### what with removeing the factors of a found prime?
+
+### nice. UI is important!
 print('************** The Prime numbers List ******************')    
 print(primeList)
 print('************** The Main numbers List ******************') 
-print(theMainList)
+print(theMainList) ### prints wierd numbers
